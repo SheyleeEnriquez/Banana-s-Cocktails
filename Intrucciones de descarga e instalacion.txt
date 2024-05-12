@@ -1,0 +1,17 @@
+1.Debe tener encendido el XAMP, debe estar inicializado Apache y MySQL.
+2. Descomprima el archivo ReactBananaCocktailsV1.2.2.zip
+3. Ingrese por terminal a ReactBananaCocktails\ClaseConexionBD>
+4..Digite npm install para descargar los modulos.
+5. Digite "node conexion.js" para activar el puerto que reciba las peticiones a la base de datos
+6. En otra terminal ingrese a ReactBananaCocktails\reactpruebas>
+7. Digite "npm install" para descargar los modulos.
+8. Digite "npm start" y esta lista para visualizar la pagina.
+
+
+Nota. Para acceder al administrador en la parte de login debera ingresar el correo y password de :
+
+leonardo.yaranga@hotmail.com
+leo123456
+
+Tras haber ingresado una vez puede que no se ingrese, por lo cual debera recargar la pagina, e ingresar los datos
+nuevamente.
